@@ -10,4 +10,4 @@ rm -rf feeds/luci/applications/luci-app-passwall
 git clone https://github.com/nantayo/My-Pkg package/my-pkg
 git clone --depth=1 https://github.com/ophub/luci-app-amlogic package/amlogic
 git clone https://github.com/messense/aliyundrive-webdav package/aliyundrive-webdav
-git clone https://github.com/topics/luci-app-naiveproxy package/naiveproxy
+git clone https://github.com/klzgrad/naiveproxy package/naiveproxy
